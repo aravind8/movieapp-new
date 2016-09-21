@@ -1,0 +1,10 @@
+.thumbnail{
+  height: 300px;
+  width: 200px;
+}
+.reactdiv{
+  margin-top: 80px;
+}
+.active{
+  background-color: green;
+}
